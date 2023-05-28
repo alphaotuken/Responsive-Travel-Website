@@ -1,7 +1,12 @@
 # Responsive Landing Page Islands Travel 🏝️
-## [Watch it on youtube](https://youtu.be/6GBVaHH_6bQ)
-### Responsive Landing Page Islands Travel
-Beautiful Responsive Landing Page Islands Travel 🏝️ Using Html, Css and JavaScript. It contains a header and a home that shows various sections of different islands.
-Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+### BY TALO
+Beautiful Responsive Landing Page Islands Travel Using Html, Css and JavaScript. It contains a header and a home that shows various sections of different islands.
 
-![Landing Page Travel](/preview.png)
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project is **free to use** and does not contains any license.
+
